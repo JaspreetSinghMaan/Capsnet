@@ -1,12 +1,7 @@
 # Capsnet
-Written By: 
-
 Jaspreet Singh
-
-Department of Computer Science
-
 Punjabi Univesity Patiala (INDIA),
-May-2020
+13 May 2020
 
 This code is initially written by: Aurélien Géron and later modified for the application of image classification on MNIST dataset.
 
